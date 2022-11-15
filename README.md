@@ -26,7 +26,11 @@ The solution txt file will be stored in a created folder named "Solutions", and 
 
 
 ## File Manifest
-
+The given files in this repository are:
+* README
+** the d
+* LAZOR
+** s
 
 ## Troubleshooting
 This program may run longer than desierd based on the make and model of the computer, possible permutations of the level, and other factors. If problems persist for more than 1.5 minutes, stop and restart the code.
