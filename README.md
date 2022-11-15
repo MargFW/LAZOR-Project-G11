@@ -23,13 +23,16 @@ Download LAZOR file as you would any other program file from Github. Also downlo
 Note: .bffs files MUST be stored in a file named "bffs", which in turn must be stored in the same file as LAZOR (in other words, both the "bffs" file and the LAZOR program file must be stored within the same over arching file).
 
 ## Operating Instructions
-Code may be run instantaneously, but the proper .bff file must be selected. To do this, ***
+Code may be run instantaneously, but the proper .bff file must be selected. To do this, go to line 383 which reads:
+filename = 'bffs/mad_1.bff'
+and change the "mad_1.bff" name to the proper file name for the level.
+NOTE: This step REQUIRES that all desired .bff files be stored in a file called "bffs".
 
 ## File Manifest
 The given files in this repository are:
 * README : This file, which describes the program, project, and its facets
 * LAZOR: The solver program, which will take in a given .bff file for a specific Lazors level and solve it.
-* bffs: The file containing the bff 
+* bffs: The file containing the .bff files.
 
 ## Troubleshooting
 This program may run longer than desierd based on the make and model of the computer, possible permutations of the level, and other factors. If problems persist for more than 1.5 minutes, stop and restart the code.
