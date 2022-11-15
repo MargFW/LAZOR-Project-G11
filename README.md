@@ -5,6 +5,7 @@
 * Configuration/Installation
 * Operating Instructions
 * File Manifest
+* Troubleshooting
 * Credits and Acknowledgments
 
 ## Introduction
@@ -17,6 +18,8 @@ These programs will automatically find the solutions to any layout of  the game 
 
 
 ## File Manifest
+
+## Troubleshooting
 
 
 ## Credits and Acknowledgments
